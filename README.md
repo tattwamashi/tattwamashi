@@ -7,7 +7,6 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="60"> Connect with Me:
 <p align="center">
-  <a href="https://instagram.com/kunmun.19"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/tattwamashi-nayak-4a9209296"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white"/></a>
   <a href="https://t.me/Kunmun04"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white"/></a>
   <a href="https://github.com/tattwamashi"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white"/></a>
