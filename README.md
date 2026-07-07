@@ -1,4 +1,4 @@
-![Header](https://github.com/ElectroPerf/ElectroPerf/blob/main/assets/github-header-image.png)
+![Header](https://github.com/tattwamashi/tattwamashi/blob/main/assets/github-header-image.png)
 
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bea7769e-cd87-495f-ad0e-04ddfbb73091" width="60"> About Me:
 - 🌱 Pursuing B.Tech in Computer Science and Technology.
@@ -10,7 +10,7 @@
   <a href="https://instagram.com/kunmun.19"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/tattwamashi-nayak-4a9209296"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white"/></a>
   <a href="https://t.me/Kunmun04"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white"/></a>
-  <a href="https://github.com/ElectroPerf"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white"/></a>
+  <a href="https://github.com/tattwamashi"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white"/></a>
 </p>
 
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d" width="60"> Current Working Environments:
@@ -43,22 +43,22 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="60"> GitHub Analytics:
 <p align="center">
-  <a href="https://github.com/ElectroPerf">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ElectroPerf&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ElectroPerf&theme=nightowl&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ElectroPerf&layout=compact&langs_count=8&theme=nightowl&hide_border=true"/>
+  <a href="https://github.com/tattwamashi">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tattwamashi&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tattwamashi&theme=nightowl&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tattwamashi&layout=compact&langs_count=8&theme=nightowl&hide_border=true"/>
   </a>
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElectroPerf/ElectroPerf/refs/heads/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ElectroPerf/ElectroPerf/refs/heads/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ElectroPerf/ElectroPerf/refs/heads/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tattwamashi/tattwamashi/refs/heads/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tattwamashi/tattwamashi/refs/heads/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tattwamashi/tattwamashi/refs/heads/output/github-contribution-grid-snake.svg">
 </picture>
 
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="60"> GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ElectroPerf&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=tattwamashi&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4"/>
 </p>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif" width="60"> Support Me:
