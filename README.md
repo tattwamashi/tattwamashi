@@ -6,7 +6,7 @@
 [    0.000000] boot: Initializing tattwamashi.profile...
 [    0.082491] init: Loading modules [Kotlin, Java, C/C++, Python, Bash, Rust]
 [    0.201948] init: Starting services...
-[    0.340912] active: AOSP Development Intern @ Brave Software
+[    0.340912] active: AOSP Development Intern @ Brave (brave.tech)
 [    0.419208] active: Android Frameworks & Device Maintainer @ Paranoid Android (AOSPA)
 [    0.481203] legacy: Former AOSP Intern @ Lava International
 [    0.509823] active: Founder & Lead Developer @ AtomX Developers
@@ -63,7 +63,7 @@ ro.laptop.storage=1TB NVMe Gen4
 </p>
 
 <p align="center">
-  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=tattwamashi&theme=tokyonight&hide_border=true"/>
+  <img height="175em" src="https://streak-stats.demolab.com/?user=tattwamashi&theme=tokyonight&hide_border=true"/>
 </p>
 
 <div align="center">
@@ -76,11 +76,7 @@ ro.laptop.storage=1TB NVMe Gen4
 
 ---
 
-## 🏆 System Credentials & Badges
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tattwamashi&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4"/>
-</p>
+## 💬 Connect & Support
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tattwamashi-nayak-4a9209296"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
